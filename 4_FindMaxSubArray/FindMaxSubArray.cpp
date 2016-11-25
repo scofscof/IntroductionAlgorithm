@@ -104,7 +104,7 @@ int main()
 	GameTimer gameTimer;
 	//gameTimer.Start();
 	float time2 = 0.0f,time1 = 0.0f,time3 = 0.0f;
-	for (int c = 0;c<=50000;++c)
+	for (int c = 0;c<=5000;++c)
 	{
 		gameTimer.Reset();
 		double arr[cnt] ;

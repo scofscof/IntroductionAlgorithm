@@ -1,0 +1,17 @@
+*.ilk
+*.pdb
+*.ipch
+*.log
+*.res
+*.lastbuildstate
+*.rc
+*.exe
+*.manifest
+*.tlog
+*.obj
+*.idb
+*.sdf
+*.opensdf
+*.suo
+*.cache
+*.user
