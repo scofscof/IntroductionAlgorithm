@@ -45,7 +45,7 @@ int main()
 	cout << "删除节点"<<node[3].key<<"后,中序遍历输出结果为:";
 	bsTree.InorderWalk();
 	cout << endl;
-
+	cout << "test finished" << endl;
 	system("pause");
 	return 0;
 }
