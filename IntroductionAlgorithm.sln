@@ -1,11 +1,15 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4_FindMaxSubArray", "4_FindMaxSubArray\4_FindMaxSubArray.vcxproj", "{A519EE53-6EC5-44DB-B695-5EC4BFA2BCC8}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6_HeapSort", "6_HeapSort\6_HeapSort.vcxproj", "{8163F082-3759-4FA2-9132-65E1D7303A64}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7_QuickSort", "7_QuickSort\7_QuickSort.vcxproj", "{74A51371-F01A-4241-9397-98B8702FE142}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "12_BinarySearchTree", "12_BinarySearchTree\12_BinarySearchTree.vcxproj", "{6C8473AE-B11C-4186-9512-A99F8EC151D5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,13 @@ Global
 		{74A51371-F01A-4241-9397-98B8702FE142}.Release|Win32.Build.0 = Release|Win32
 		{74A51371-F01A-4241-9397-98B8702FE142}.Release|x64.ActiveCfg = Release|x64
 		{74A51371-F01A-4241-9397-98B8702FE142}.Release|x64.Build.0 = Release|x64
+		{6C8473AE-B11C-4186-9512-A99F8EC151D5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6C8473AE-B11C-4186-9512-A99F8EC151D5}.Debug|Win32.Build.0 = Debug|Win32
+		{6C8473AE-B11C-4186-9512-A99F8EC151D5}.Debug|x64.ActiveCfg = Debug|x64
+		{6C8473AE-B11C-4186-9512-A99F8EC151D5}.Debug|x64.Build.0 = Debug|x64
+		{6C8473AE-B11C-4186-9512-A99F8EC151D5}.Release|Win32.ActiveCfg = Release|Win32
+		{6C8473AE-B11C-4186-9512-A99F8EC151D5}.Release|Win32.Build.0 = Release|Win32
+		{6C8473AE-B11C-4186-9512-A99F8EC151D5}.Release|x64.ActiveCfg = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

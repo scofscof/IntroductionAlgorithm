@@ -15,3 +15,7 @@
 *.suo
 *.cache
 *.user
+*.iobj
+*.ipdb
+*.db
+*.opendb
