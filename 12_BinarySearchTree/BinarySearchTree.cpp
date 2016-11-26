@@ -322,4 +322,3 @@ void BinarySearchTree::Transplant(BSTreeNode* pNodeU, BSTreeNode* pNodeV)
 		pNodeV->parent = pNodeU->parent;
 	}
 }
-
